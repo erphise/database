@@ -1,7 +1,7 @@
 {
   "name": "Dictionarry Database",
   "version": "2.0.0",
-  "description": "Official Dictionarry Database",
+  "description": "Erphise's Dictionarry Database",
   "arr_types": [
     "radarr",
     "sonarr"
@@ -15,7 +15,7 @@
     }
   ],
   "license": "MIT",
-  "repository": "https://github.com/dictionarry-hub/db",
+  "repository": "https://github.com/erphise/database",
   "links": {
     "homepage": "https://dictionarry.dev",
     "issues": "https://github.com/dictionarry-hub/db/issues"
